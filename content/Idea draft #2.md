@@ -1,9 +1,9 @@
 ---
-title: "Idea draft #1"
+title: "Idea draft #2"
 tags:
 date: 23 January 2026
 ---
-## I had two broad ideas: 
+## 01/16/2026 Class Discussion
 
 1) Make some sort of a tool or system for Students (aged 12-15) to be able to log their academic interests overtime and think critically about these areas of interest. 
 2) Do something in the crochet/fiber arts/crafts space 
