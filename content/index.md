@@ -1,6 +1,7 @@
 ---
-title: trial
+title: 🏠
 tags:
-date: 14 january 2026
+date: 23 january 2026
 ---
-trial obsidian template; made by [arjun](https://arjunmakesthings.github.io); for students of ux-design at purdue university. 
+Hi! I'm Tanya. I'm using this space to log everything (ideas, methods, scribbles, scratches, etc.) that'll coalesce into my final project.  
+
