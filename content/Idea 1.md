@@ -13,7 +13,6 @@ date: 15 january 2026
 I am exploring how an interest tracker can help students (ages 12-15) build self-advocacy skills for their future—whether for college majors, careers, or personal projects. While the tool would be accessible year-round, one aspect of it would be facilitated annually by teachers or counsellors to ensure consistent reflection. 
 
   
-
 ###### Visuals
 Classmates can see streams form on the screen, all intersecting with each other - tributaries and distributaries (Kind of what you’d see on a physical map of a state/country with its water bodies). Nodes will form, and the teacher/facilitator will have data on overlaps and potential groups of students who can sit together to discuss their interests. 
 
