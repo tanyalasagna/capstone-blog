@@ -6,7 +6,7 @@ date: 15 january 2026
 
 
 > [!NOTE] Brief
-Make a tool or system for Students (aged 12-15) to be able to log their academic and non-academic interests overtime and think critically about their areas of interest. 
+>Make a tool or system for Students (aged 12-15) to be able to log their academic and non-academic interests overtime and think critically about their areas of interest. 
 > 
 
 ###### What I want to do 
