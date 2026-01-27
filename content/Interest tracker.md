@@ -5,7 +5,6 @@ date: 15 january 2026
 ---
 > [!NOTE] **Idea**
 >Make a tool or system for Students (aged 12-15) to be able to log their academic and non-academic interests overtime and think critically about their areas of interest. 
-> 
 
 #### What I want to do 
 I’m exploring a tool to help students (ages 12–15) track their evolving interests, whether that’s a sudden fascination with astrophysics or a deep dive into watercolor painting. The goal is to help them advocate for themselves when it matters most, like choosing a college major or a career path.
