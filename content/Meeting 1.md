@@ -27,10 +27,3 @@ As it turns out, I can't change the education system from the ground up with som
 
 - Fictional exercise. Base it on assumptions.
 
-  
-  
-  
-  
-  
-  
-**
