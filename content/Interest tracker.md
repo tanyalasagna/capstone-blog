@@ -16,11 +16,11 @@ I’m exploring a tool to help students (ages 12–15) track their evolving inte
 Classmates can see streams form on the screen, all intersecting with each other - tributaries and distributaries (Kind of what you’d see on a physical map of a state/country with its water bodies). Nodes will form, and the teacher/facilitator will have data on overlaps and potential groups of students who can sit together to discuss their interests. 
 
 
-![[WhatsApp Image Jan 23 2026.jpeg]]
+![[img 3.jpeg]]
 
-![[WhatsApp Image Jan 23 2026 (1).jpeg]]
+![[img 2.jpeg]]
 
-![[WhatsApp Image Jan 23 2026 (2).jpeg]]
+![[img 1.jpeg]]
 
 >[Mentimeter](https://www.mentimeter.com/features/quiz-presentations?utm_source=google&utm_medium=cpc&utm_campaign=p-search-features&utm_term=organise%20online%20quiz&gad_source=1&gad_campaignid=22741305249&gbraid=0AAAAABgnCNufDm8DCRQZY0JNxApZXfxfO&gclid=CjwKCAiA4KfLBhB0EiwAUY7GAfpc0qM2rMQrrlcv5aO--2BiCBEyJJhuszaDLNIvhBaCbJf0N_UMXhoCyYoQAvD_BwE) esque [[data visualization]]
 
