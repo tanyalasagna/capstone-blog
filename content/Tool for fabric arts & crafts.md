@@ -1,6 +1,8 @@
 ---
 title: Tool for fabric arts & crafts
 tags:
+  - Idea
+  - Exploration
 date: 15 january 2026
 ---
 
@@ -11,11 +13,12 @@ date: 15 january 2026
 
 #### Inspiration
 
-Sent by prof after a prelim chat about this concept: 
+Sent by [[prof]] after a prelim chat about this concept: 
 
 [Inspo 1] (https://www.youtube.com/watch?v=qMG1SYK15Mo)
 
 [Inspo 2] (https://www.youtube.com/watch?v=pthXAas9XOM)
+
 
 
 
