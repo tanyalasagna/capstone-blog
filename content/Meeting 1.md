@@ -4,26 +4,16 @@ tags:
 date: 16 january 2026
 ---
 
+> [!NOTE] Meeting Overview
+>After discussing both concepts with prof, I realized that trying to fix the education system with data visualization is unrealistic (especially given the barriers to testing with students aged 12–15). I also ruled out the fiber arts idea, as I don't know how to meaningfully add to exisitng innovations. 
+>
+>Instead, I am returning to my first concept with a new, critical lens: digging deeper into where the frustration with the education system stems from and exploring creative ways to channel that energy into a design 'solution.'
 
-> [!NOTE] Brief
-Make a tool or system for Students (aged 12-15) to be able to log their academic and non-academic interests overtime and think critically about their areas of interest. 
-> 
+##### More Advice: 
 
-## 01/16/2026 Class Discussion Recap
-  
-As it turns out, I can't change the education system from the ground up with some data visualisation. There are limitations right off the bat because I can't directly test my ideas with the particular age range. Also, maybe I have to dig deeper to see where all of this frustration with the education system comes from, and explore creative ways in which I can transfer (?) my frustration.
-
-
-
- ##### *Advice from Shobhan:*
-
-- Think of other situations where one needs to ward off influence and explore the trails of their authenticity. %% My core frustration from idea (1) %%
-
-  
+- Think of other situations where one needs to ward off influence and explore the trails of their authenticity. %% My core frustration from the first idea %%
 
 - Make empathy maps to represent what's going through people's minds - decision points, etc., where bifurcations happen and why?  
 
-  
-
-- Fictional exercise. Base it on assumptions.
+- Make it fictional. Base it on assumptions.
 

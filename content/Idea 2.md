@@ -5,14 +5,17 @@ date: 15 january 2026
 ---
 
 > [!NOTE] **Idea**
->Make a tool or system for Students (aged 12-15) to be able to log their academic and non-academic interests overtime and think critically about their areas of interest. 
+>For this concept, am exploring either an experiential interaction design project (like projection mapping) or a functional utility specifically built to help fiber artists visualize and create complex patterns.
 > 
 
 
-IDEA 2
+#### Inspiration
 
-Do something in the crochet/fiber arts/crafts space 
+Sent by prof after a prelim chat about this concept: 
 
-Either an interaction design project (Projection mapping etc)
+[Inspo 1] (https://www.youtube.com/watch?v=qMG1SYK15Mo)
 
-Or, a tool that helps with pattern creation (Specifically for fiber artists)
+[Inspo 2] (https://www.youtube.com/watch?v=pthXAas9XOM)
+
+
+
