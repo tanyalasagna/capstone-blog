@@ -1,9 +1,6 @@
 ---
 title: Trails of authenticity
 tags:
-  - advice
-  - direction
-  - meeting
 date: 16 january 2026
 ---
 

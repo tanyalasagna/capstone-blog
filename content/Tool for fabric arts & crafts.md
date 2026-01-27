@@ -1,8 +1,6 @@
 ---
 title: Tool for fabric arts & crafts
 tags:
-  - Idea
-  - Exploration
 date: 15 january 2026
 ---
 

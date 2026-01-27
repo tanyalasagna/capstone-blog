@@ -1,4 +1,4 @@
-prof is [shobhan] (https://setwrite.in/) lol
+prof is shobhan lol
 
 he is my capstone project mentor
 

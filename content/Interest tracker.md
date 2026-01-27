@@ -1,8 +1,6 @@
 ---
 title: Interest tracker
 tags:
-  - Idea
-  - Exploration
 date: 15 january 2026
 ---
 > [!NOTE] **Idea**
