@@ -13,9 +13,9 @@ date: 15 january 2026
 
 Sent by [[prof]] after a prelim chat about this concept: 
 
-[Inspo 1] (https://www.youtube.com/watch?v=qMG1SYK15Mo)
+[Inspo 1](https://www.youtube.com/watch?v=qMG1SYK15Mo)
 
-[Inspo 2] (https://www.youtube.com/watch?v=pthXAas9XOM)
+[Inspo 2](https://www.youtube.com/watch?v=pthXAas9XOM)
 
 
 
