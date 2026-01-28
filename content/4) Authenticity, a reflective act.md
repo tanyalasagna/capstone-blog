@@ -1,5 +1,5 @@
 ---
-title: Authenticity, a reflective act
+title: 4) Authenticity, a reflective act
 tags:
 date: 23 january 2026
 ---

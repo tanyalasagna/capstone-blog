@@ -1,5 +1,5 @@
 ---
-title: Tool for fabric arts & crafts
+title: 2) Tool for fabric arts & crafts
 tags:
 date: 15 january 2026
 ---

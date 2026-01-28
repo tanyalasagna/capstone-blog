@@ -1,5 +1,5 @@
 ---
-title: Micro-Interventions for Online Shopping
+title: 5) Micro-Interventions for Online Shopping
 tags:
 date: 25 january 2026
 ---

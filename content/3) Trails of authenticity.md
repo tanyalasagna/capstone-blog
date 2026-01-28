@@ -1,5 +1,5 @@
 ---
-title: Trails of authenticity
+title: 3) Trails of authenticity
 tags:
 date: 16 january 2026
 ---
