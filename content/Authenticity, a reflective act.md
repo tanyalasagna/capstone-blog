@@ -9,6 +9,13 @@ date: 23 january 2026
 > 
 
 
+> [!NOTE] **Meeting**
+>Takeaways from my meeting [[prof]]: I still need to do more research on reflectiveness and how that might add some friction to falling for microtrends and fads via TikTok Shop and Instagram ads.
+>
+>How will I induce the act of reflection, and at what point? The shopping cart? The ad? Where? I need to think about what form it will take.
+> 
+
+
 ![[whiteboard image.jpeg]]
 
 
