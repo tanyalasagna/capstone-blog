@@ -13,4 +13,7 @@ date: 25 january 2026
 > To bring this to life, I plan to design a mascot and make the experience fun and interactive, with a strong focus on branding and microcopy.
 
 
+Book that [[prof]] suggested: [[Art as Experience]]
+
+
 
