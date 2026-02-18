@@ -14,6 +14,6 @@ date: 2 February 2026
 
 ## Research Insights
 
-
+![[Pasted image 20260218000622.png]]
 
 
