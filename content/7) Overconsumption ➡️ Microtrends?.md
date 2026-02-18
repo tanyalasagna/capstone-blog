@@ -1,5 +1,5 @@
 ---
-title: 5) Impulse
+title: 7) Overconsumption ➡️ Microtrends?
 tags:
 date: 2 February 2026
 ---

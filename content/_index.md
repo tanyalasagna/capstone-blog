@@ -22,10 +22,5 @@ Figuring this out as I go. But for now, ==all blogs are sorted chronologically==
 
 Miscellaneous ideas, thoughts, source material, advice from mentors & peers etc. can be found under the ==Sources, Tags== folder.
 
-----
-
-
-
-
 
 
