@@ -1,5 +1,5 @@
 ---
-title: 8) Clothes are the problem
+title: 9)
 tags:
 date: 10 February 2026
 ---
