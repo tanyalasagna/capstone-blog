@@ -20,6 +20,11 @@ date: 10 February 2026
 > 
 > *(This direction was informed by deep dives into online forums and interviews with family and friends. A few, prominent groups of people I've recognized throughout this process are conscious consumers with a passion for fashion)*
 
+
+Add theory-backing to my brief to make it more airtight, no cross-questions. (A study shows...)
+
+Insights that led to specific solutions. 
+
 ![[Pasted image 20260220165702.png]]
 ![[Pasted image 20260220135828.png]
 ![[Pasted image 20260220135912.png]]
