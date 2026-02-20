@@ -20,9 +20,7 @@ date: 10 February 2026
 > 
 > *(This direction was informed by deep dives into online forums and interviews with family and friends. A few, prominent groups of people I've recognized throughout this process are conscious consumers with a passion for fashion)*
 
-
-![[Pasted image 20260220135828.png]]
-
-![[Pasted image 20260220135912.png]]![[Pasted image 20260220135704.png]]
-
+![[Pasted image 20260220165702.png]]
+![[Pasted image 20260220135828.png]
+![[Pasted image 20260220135912.png]]
 ![[Pasted image 20260220135952.png]]
