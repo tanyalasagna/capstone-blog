@@ -1,5 +1,5 @@
 ---
-title: 9) Update
+title: 9) Clothing and Identity
 tags:
 date: 10 February 2026
 ---
