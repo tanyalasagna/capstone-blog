@@ -1,5 +1,5 @@
 ---
-title: 10) Update
+title: 10) Abandon your cart
 tags:
 date: 23 February 2026
 ---
