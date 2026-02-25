@@ -13,3 +13,6 @@ date: 23 February 2026
 > 
 > Currently, I'm doing two things, interviewing more people about their buying habits with a structured interview protocol when it comes to clothes and sketching wireframes for how my intervention or web plugin might look.
 
+Notes: 
+
+After speaking with more people, it seems, delaying a purchasing and forgetting about it is the way to go. Not much enthusiasm for curating inspiration. 
