@@ -13,6 +13,14 @@ date: 23 February 2026
 > 
 > Currently, I'm doing two things, interviewing more people about their buying habits with a structured interview protocol when it comes to clothes and sketching wireframes for how my intervention or web plugin might look.
 
-Notes: 
+I went on two subreddits—r/anticonsumption and r/sustainableshopping—to extract some information about what makes people so passionate about these topics. What was their last straw when it came to overconsumption and impulse-buying fast fashion? I figured there would also be people on these subs I could talk to further.
 
-After speaking with more people, it seems, delaying a purchasing and forgetting about it is the way to go. Not much enthusiasm for curating inspiration. 
+![[Pasted image 20260225183628.png]]
+
+I got quite a lot of responses & engagement. 
+
+![[Pasted image 20260225183758.png]]
+
+![[Pasted image 20260225183840.png]]
+
+
