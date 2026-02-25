@@ -11,5 +11,5 @@ date: 23 February 2026
 > >**So, what am I working on and how did I get here?**
 > I’m trying to make online shopping intentional, helping us define our own style and make the inspiration-to-purchase cycle our own. 
 > 
-> Currently, I'm doing two things, interviewing more people about their buying habits when it comes to clothes and sketching wireframes for how my intervention or web plugin might look.
+> Currently, I'm doing two things, interviewing more people about their buying habits with a structured interview protocol when it comes to clothes and sketching wireframes for how my intervention or web plugin might look.
 
