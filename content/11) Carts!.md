@@ -13,3 +13,6 @@ date: 25 February 2026
 > 
 > Currently, I'm doing two things, interviewing more people about their buying habits with a structured interview protocol when it comes to clothes and sketching wireframes for how my intervention or web plugin might look.
 
+
+
+![[Pasted image 20260225201507.png]]
