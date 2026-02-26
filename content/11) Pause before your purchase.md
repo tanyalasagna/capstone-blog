@@ -22,17 +22,17 @@ date: 25 February 2026
 > 
 > Why the cart, though? Usually, the purchase pipeline starts right when we're scrolling on social media, so how will intervening at the cart actually help? Based on contextual research with a participant and my interview responses, people naturally pause at the cart. It's where they break out of autopilot mode and think—_really_ think. I want to add an extra layer of thought and meet them where they already are.
 
-
-
 I looked at similar interventions: 
 
 1) The Impulse Judge 
 - Playful web extension with a set of "roasts" the user is forced to type in. 
 - [[6) Impulse]]
 
+
 1) Think Twice, Buy Once  
 - Simple mobile app that pushes users to wait a day or two before making a purchase.
 - [[4) Authenticity, a reflective act]]
+
 
 ![[Pasted image 20260225201507.png]]
 
