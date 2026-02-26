@@ -25,7 +25,6 @@ I got quite a lot of responses & engagement.
 
 I was able to get in touch with a few people from these subs and learn about their journey: from impulse buying fast fashion to now vehemently avoiding it. I'm excited to see how I can use these insights to brainstorm further. Their responses also helped shape my interview protocol for when I talked to friends and family about their own buying habits and relationship with clothes.
 
-
 I let conversations meander and go in sorts of different directions in the hope that I would learn something different from the reddit responses. Largely, partcipants echoed similar views. **Here are a few questions from the protocol:** 
 
 - Where do you typically discover new clothes? (TikTok, seeing friends, walking past a store, specific influencers?)
