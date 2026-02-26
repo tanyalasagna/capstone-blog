@@ -25,11 +25,13 @@ I want to help by designing an intervention that takes place right at the cart. 
 
 I looked at similar interventions: 
 
-1) The Impulse Judge
+1) The Impulse Judge 
 - Playful web extension with a set of "roasts" the user is forced to type in. 
+- [[6) Impulse]]
 
-1) Think Twice, Buy Once
-- Simple mobile app that pushes users to wait a day or two before making a purchase. 
+1) Think Twice, Buy Once  
+- Simple mobile app that pushes users to wait a day or two before making a purchase.
+- [[4) Authenticity, a reflective act]]
 
 ![[Pasted image 20260225201507.png]]
 
