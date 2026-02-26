@@ -23,4 +23,26 @@ I got quite a lot of responses & engagement.
 
 ![[Pasted image 20260225183840.png]]
 
+I was able to get in touch with a few people from these subs and learn about their journey: from impulse buying fast fashion to now vehemently avoiding it. I'm excited to see how I can use these insights to brainstorm further. Their responses also helped shape my interview protocol for when I talked to friends and family about their own buying habits and relationship with clothes.
 
+
+I let conversations meander and go in sorts of different directions in the hope that I would learn something different from the reddit responses. Largely, partcipants echoed similar views. **Here are a few questions from the protocol:** 
+
+- Where do you typically discover new clothes? (TikTok, seeing friends, walking past a store, specific influencers?)
+- Tell me about the last time you saw a piece of clothing online and immediately felt like you NEEDED it. What was the item?
+- When you have items sitting in a cart, what does that feel like? Is it stressful, exciting, or do you just forget about them?
+- Can you think of something you bought recently that you were super excited about, but now it just sits in your closet? What went wrong?
+
+![[Pasted image 20260225191810.png]]
+
+Recurring themes: 
+![[Pasted image 20260225191912.png]]
+
+LOTS of people stop at their cart: [[4) Authenticity, a reflective act]] ??
+
+- to remove items 
+- to ponder a little bit 
+- get seduced into adding more items 
+- close the tab and get busy with something else 
+	- they either forget about it 
+	- or, they think about their cart long enough to want to buy the items
