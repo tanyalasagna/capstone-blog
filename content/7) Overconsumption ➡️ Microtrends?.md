@@ -30,7 +30,8 @@ Mapped out the causes of impulse buys ↓
 >
 >3)  **Financial Factors & Facilitators:** This highlights how the barriers to buying are removed. "Buy now, pay later" programs eliminate payment friction, while Fast Fashion’s low prices and quick turnover foster a culture of disposal.
 >
-    Underpinning these factors is a neurobiological mechanism where the mere anticipation of acquiring something new triggers a dopamine burst, providing a temporary biological high that reinforces the behavior.
+> Underpinning these factors is a neurobiological mechanism where the mere anticipation of acquiring something new triggers a dopamine burst, providing a temporary biological high that reinforces the behavior.
+
 
 [[5) Micro-Interventions for Online Shopping]]
 [[9) Clothing and Identity]]
