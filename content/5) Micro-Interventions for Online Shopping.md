@@ -15,5 +15,6 @@ date: 25 january 2026
 
 Book that [[prof]] suggested: [[Art as Experience]]
 
+[Beautifully written article about microtrends & identity](https://feminisminindia.com/2023/01/03/internet-aesthetics-crises-identity-a-young-intersectional-eco-feminists-perspective/)
 
-
+[[9) Clothing and Identity]]

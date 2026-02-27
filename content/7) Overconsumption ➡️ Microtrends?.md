@@ -32,3 +32,5 @@ Mapped out the causes of impulse buys ↓
 >
     Underpinning these factors is a neurobiological mechanism where the mere anticipation of acquiring something new triggers a dopamine burst, providing a temporary biological high that reinforces the behavior.
 
+[[5) Micro-Interventions for Online Shopping]]
+[[9) Clothing and Identity]]
