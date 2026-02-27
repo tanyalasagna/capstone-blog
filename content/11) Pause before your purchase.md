@@ -29,7 +29,7 @@ I looked at similar interventions:
 - [[6) Impulse]]
 
 
-1) Think Twice, Buy Once  
+2) Think Twice, Buy Once  
 - Simple mobile app that pushes users to wait a day or two before making a purchase.
 - [[4) Authenticity, a reflective act]]
 
