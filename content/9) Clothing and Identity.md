@@ -26,6 +26,6 @@ Add theory-backing to my brief to make it more airtight, no cross-questions. (A 
 Insights that led to specific solutions. 
 
 ![[Pasted image 20260220165702.png]]
-![[Pasted image 20260220135828.png]
+
 ![[Pasted image 20260220135912.png]]
 ![[Pasted image 20260220135952.png]]
