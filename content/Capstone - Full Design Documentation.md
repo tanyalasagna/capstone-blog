@@ -57,8 +57,7 @@ I reviewed a mix of scholarly and mainstream articles to map out the root causes
   
 
 ### Primary Research
-
-#### Online Probes
+#### Online Probes 
 
 Working from the insights I gathered from secondary research, I posted probes on two active subreddits (r/anticonsumption and r/sustainableshopping), communities filled with people who have a history of impulse shopping but are committed to breaking the cycle.
 
