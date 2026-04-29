@@ -30,9 +30,9 @@ I followed up with 9 interviews. I let conversations go wherever they went. And 
 
 Not occasionally. Consistently. They leave things in their bag for days. They remove items. They close the tab and come back. They second-guess. The hesitation is already there it's just not being used for anything.
 
-![[Screenshot 2026-04-29 at 3.56.29 PM.png|288]]
+![[Screenshot 2026-04-29 at 3.56.29 PM.png|436]]
 
-![[Screenshot 2026-04-29 at 3.56.58 PM.png|288]]
+![[Screenshot 2026-04-29 at 3.56.58 PM.png|436]]
 
 ---
 ## Who is this?
