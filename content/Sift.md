@@ -35,7 +35,7 @@ Not occasionally. Consistently. They leave things in their bag for days. They re
 ![[Screenshot 2026-04-29 at 3.56.58 PM.png|436]]
 
 ---
-## Who is this?
+## Who is this for?
 
 ![[Screenshot 2026-04-29 at 3.53.36 PM.png|669]]
 
