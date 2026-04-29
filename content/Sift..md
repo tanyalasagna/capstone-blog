@@ -35,7 +35,7 @@ Not occasionally. Consistently. They leave things in their bag for days. They re
 ![[Screenshot 2026-04-29 at 3.56.58 PM.png|288]]
 
 ---
-## Who keeps ending up in this cycle?
+## Who is this?
 
 ![[Screenshot 2026-04-29 at 3.53.36 PM.png|669]]
 
