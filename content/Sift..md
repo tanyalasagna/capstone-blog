@@ -90,27 +90,14 @@ The three pillars came straight from the research, participants consistently des
 Users choose which pillars they want active. They can change them on the fly. They can always skip. The whole experience is built around trust and giving shoppers their agency. 
 
 ---
-## The exit
-
-The dismiss button — "I don't need Sift today" — was just as considered as the rest. Clicking it opens a small modal:
-
-*"Sift doesn't always need to fit. Maybe you're buying a gift for someone you love, or maybe you just really need this. Either way, it's yours."*
-
-A small note at the bottom reminds you that you can reactivate from the toolbar any time.
-
-No guilt. No "are you sure?" No friction. If someone needs out, they get out cleanly.
-
----
 ## The brand
 
-Sift is grounded and reflective, so the palette is muted: Parchment, Stone, Terracotta, Espresso. Each pillar has its own accent — money in warm gold, space in sage green, need in dusty mauve.
+Sift is grounded and reflective, so the palette is muted. Each pillar has its own accent as well. 
 
-The name came from committing to the card metaphor. You sift through decisions, through cards — so you don't have to sift through your closet later.
-
-Typography: Happy Monkey for the wordmark, Geist for body, Geist Mono for labels and pillar tags.
+![[Pasted image 20260429160932.png|358]]
 
 ---
-## What I actually learned
+## What I learned
 
 The biggest thing this project confirmed: the problem isn't a lack of awareness. People know they overshop. They know they'll probably regret it. But willpower is a depleting resource against platforms that are very good at what they do.
 
@@ -118,7 +105,7 @@ Design that adds meaningful friction is more useful than design that lectures.
 
 Sift doesn't try to stop people from wanting things. It trusts them to make good decisions when given a moment to breathe. That trust is the whole product.
 
-If I could go back, I'd test even earlier. The physical cards were the right instinct — I'd have done three rounds of those before writing a single line of code.
+If I could go back, I'd test even earlier. The physical cards were the right instinct, I'd have done three rounds of those before writing a single line of code.
 
 ---
 ## What's next
@@ -127,7 +114,7 @@ Expanding to more retailers. A reflection history page where you can look back a
 
 ---
 
-*This started as a messy closet. It turned into a question about why we do this to ourselves — and whether a well-placed pause can help.*
+*This started as a messy closet. It turned into a question about why we do this to ourselves, and whether a well-placed pause can help.*
 
 
 *I think it can.*
